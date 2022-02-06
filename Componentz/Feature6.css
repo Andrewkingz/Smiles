@@ -1,0 +1,72 @@
+.mainGallerys>h1{
+    margin-left: 160px;
+    height: -10px;
+    margin-top: 40px;
+    font-size: 40px;
+    
+}
+.mainGallerys>p{
+    margin-left: 42%;
+    background-color: black;
+    color: white;
+    width: 210px;
+    height: 35px;
+    padding-left: 20px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+
+
+.mainGallery{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+    width: 80%;
+    
+    margin-left: 150px;
+}
+
+
+
+
+.masHall{
+    width: 300px;
+    height: 300px;
+}
+
+.masHall1{
+    width: 300px;
+    height: 300px;
+}
+
+.masHall2{
+    width: 300px;
+    height: 300px;
+}
+
+.masHall3{
+    width: 300px;
+    height: 300px;
+}
+
+.Gallery>p{
+    font-size: 18px;
+}
+
+
+.Gallery2>p{
+    font-size: 18px;
+}
+
+
+.Gallery3>p{
+    font-size: 18px;
+}
+
+
+.Gallery4>p{
+    font-size: 18px;
+}
